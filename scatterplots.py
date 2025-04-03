@@ -38,4 +38,5 @@ for i, feature in enumerate(features, 1):
     plt.ylabel("Happiness Score")
 
 plt.tight_layout()
+plt.savefig("./img/scatterplots.png", dpi=300)
 plt.show()
