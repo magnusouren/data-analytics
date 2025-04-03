@@ -42,14 +42,14 @@ The dataset contains some columns that are not in the same range. For example, t
 
 The code can be found in the `pearson.py` file.
 
-![Pearson](./pearson.png)
+![Pearson](img/pearson.png)
 
 ### Linear Regression
 The code can be found in the `regression.py` file.
 
-![Linear Regression](./linear-regresssion.png)
+![Linear Regression](img/linear-regresssion.png)
 
 ### Scatter Plot
 The code can be found in the `scatterplots.py` file.
 
-![Scatter Plot](./scatterplots.png)
+![Scatter Plot](img/scatterplots.png)
