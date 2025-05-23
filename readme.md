@@ -17,7 +17,7 @@ and other variables describing the country, such as identifying which characteri
 contribute most to a country's happiness. 
 
 ## Dataset
-Dataset: [https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
+Dataset: [https://www.kaggle.com/datasets/sougatapramanick/happiness-index-2018-2019](https://www.kaggle.com/datasets/sougatapramanick/happiness-index-2018-2019)
 
 ## Preprocessing
 
